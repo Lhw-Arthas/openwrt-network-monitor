@@ -1,4 +1,4 @@
-module zerotier-ping-monitor
+module openwrt-network-monitor
 
 go 1.17
 
